@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvisdHScZzuF3Z9BejYcDx8PLmCqHUp2rQp4+rv7YUjWAf30VqO432tD+AZGCMivQQdQmhlmTFjcv1f6xftXFg==",
+  "success": true,
+  "projectFilePath": "/Users/tundebabayemi/repo/Evaluation/TwitterStatisticsApi/TwitterStatistics.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/tundebabayemi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

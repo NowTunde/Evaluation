@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{34A4023D-EF14-4F57-BE60-5B11F86CBF6C}|TwitterStatisticsApi">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TwitterEvaluation" expanded="True">
+            <Node name="TwitterStatistics.Api" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.TwitterStatistics.Api PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

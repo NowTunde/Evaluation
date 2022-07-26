@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1z6XA+Ft/BCWhBk2oc4wae/kT4cDaAWQMzF9EuUXEma9b0/iA50082xyIt3LQ7githJWpzpDjZhYG4NKfvg1g==",
+  "success": true,
+  "projectFilePath": "/Users/tundebabayemi/repo/Evaluation/TwitterStatistics.Repository/TwitterStatistics.Repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/tundebabayemi/.nuget/packages/restsharp/108.0.1/restsharp.108.0.1.nupkg.sha512",
+    "/Users/tundebabayemi/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
