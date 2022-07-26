@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'TwitterStatisticsApi' " />
+  <ItemGroup>
+    <None Remove="DomainServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DomainServices\" />
+  </ItemGroup>
+</Project>
